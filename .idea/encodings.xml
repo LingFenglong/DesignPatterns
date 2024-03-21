@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/demo01-Iterator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo01-Iterator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo02-Adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo02-Adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo03-TemplateMethod/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo03-TemplateMethod/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo04-FactoryMethod/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo04-FactoryMethod/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo05-Singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo05-Singleton/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo06-Prototype/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo06-Prototype/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo07-Builder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo07-Builder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo08-AbstractFactory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo08-AbstractFactory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo09-Bridge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo09-Bridge/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo10-Strategy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo10-Strategy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo11-Composite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo11-Composite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo12-Decorator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo12-Decorator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo13-Visitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo13-Visitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14-ChainOfResponsibility/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14-ChainOfResponsibility/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo15-Facade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo15-Facade/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo16-Mediator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo16-Mediator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo17-Observer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo17-Observer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo18-Memento/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo18-Memento/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo19-State/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo19-State/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo20-Flyweight/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo20-Flyweight/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo21-Proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo21-Proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo22-Command/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo22-Command/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo23-Interpreter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo23-Interpreter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

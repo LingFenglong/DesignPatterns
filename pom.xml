@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+    <modules>
+        <module>demo03-TemplateMethod</module>
+        <module>demo04-FactoryMethod</module>
+        <module>demo05-Singleton</module>
+        <module>demo06-Prototype</module>
+        <module>demo07-Builder</module>
+        <module>demo08-AbstractFactory</module>
+        <module>demo09-Bridge</module>
+        <module>demo10-Strategy</module>
+        <module>demo11-Composite</module>
+        <module>demo12-Decorator</module>
+        <module>demo13-Visitor</module>
+        <module>demo14-ChainOfResponsibility</module>
+        <module>demo15-Facade</module>
+        <module>demo16-Mediator</module>
+        <module>demo17-Observer</module>
+        <module>demo18-Memento</module>
+        <module>demo19-State</module>
+        <module>demo20-Flyweight</module>
+        <module>demo21-Proxy</module>
+        <module>demo22-Command</module>
+        <module>demo23-Interpreter</module>
+    </modules>
+    <groupId>com.lingfenglong</groupId>
+    <artifactId>designpatterns</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.10.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.30</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.8.25</version>
+        </dependency>
+    </dependencies>
+
+</project>

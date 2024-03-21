@@ -1,0 +1,23 @@
+package program.interpreter;
+
+public class ProgramNode extends Node {
+    private Node commandListNode;
+    @Override
+    public void parse(Context context) throws ParserException {
+        context.skipToken("program");
+        commandListNode = new CommandListNode();
+        commandListNode.parse(context);
+    }
+
+    @Override
+    public String toString() {
+        return "program.interpreter.ProgramNode{" +
+                "commandListNode=" + commandListNode +
+                '}';
+    }
+
+    @Override
+    public void execute() {
+        commandListNode.execute();
+    }
+}

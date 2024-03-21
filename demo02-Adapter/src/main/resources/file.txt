@@ -1,0 +1,4 @@
+# This is comment
+name=zhangsan
+age=19
+sex=男

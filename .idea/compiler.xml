@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo11-Composite" />
+        <module name="demo20-Flyweight" />
+        <module name="demo21-Proxy" />
+        <module name="demo04-FactoryMethod" />
+        <module name="demo01-Iterator" />
+        <module name="demo16-Mediator" />
+        <module name="demo15-Facade" />
+        <module name="demo17-Observer" />
+        <module name="demo14-ChainOfResponsibility" />
+        <module name="demo22-Command" />
+        <module name="demo08-AbstractFactory" />
+        <module name="demo09-Bridge" />
+        <module name="demo23-Interpreter" />
+        <module name="demo19-State" />
+        <module name="demo07-Builder" />
+        <module name="demo18-Memento" />
+        <module name="demo13-Visitor" />
+        <module name="demo12-Decorator" />
+        <module name="demo02-Adapter" />
+        <module name="demo10-Strategy" />
+        <module name="demo03-TemplateMethod" />
+        <module name="demo05-Singleton" />
+        <module name="demo06-Prototype" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-Iterator" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

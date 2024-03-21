@@ -1,0 +1,8 @@
+#Wrote by FileProperties
+#Sun Jan 28 18:49:20 CST 2024
+month=1
+year=2024
+sex=\u00E7\u0094\u00B7
+name=zhangsan
+day=28
+age=19
